@@ -31,6 +31,8 @@
  <br/>
  
  <p> 구글 드라이브 scope 와 servlet 문서들을 연습한 프로젝트입니다.  </p>
- 
+ <a href="https://github.com/wkdtndgns/Servlet/tree/master/Servlet"> servlet</a>
+ <br/>
+  <a href="https://github.com/wkdtndgns/Servlet/tree/master/Scope">scope</a>
  
  <br/>
