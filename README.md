@@ -17,8 +17,7 @@
  # 사용 기술
  <br/>
  
-![servlet](https://user-images.githubusercontent.com/24237454/41495714-6dc65968-7168-11e8-8a1b-daaddaac90b3.PNG)
-
+![me](https://user-images.githubusercontent.com/24237454/41517532-a0279018-72f6-11e8-95db-5d7ad48355bd.PNG)
 
 - 빨간색 : 소스코드, 문서 등을 저장한 공간소와 배포 서버 안내.
 - 파란색 : Front-End 영역.
